@@ -7,9 +7,9 @@ import { Users } from "./components/users/Users";
 const product =[
   {
     id: "1",
-    title: "Apple",
-    price: 120,
-    date: new Date("2023, 2, 9"),
+    title: "Sumsung",
+    price: 250,
+    date: new Date("2023, 05, 09"),
   },
 ]
 function App() {
